@@ -1,6 +1,7 @@
 [
   {
-    "leagueName": "4497",
+    "leagueId": "4497",
+    "leagueName": "Colombia Categoría Primera A",
     "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png"
   },
   {
@@ -16,6 +17,7 @@
     "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png"
   },
   {
+    "leagueId": "4480",
     "leagueName": "UEFA Champions League",
     "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png"
   },
