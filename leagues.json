@@ -68,5 +68,10 @@
     "leagueId": "4429",
     "leagueName": "FIFA World Cup",
     "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png"
+  },
+    {
+    "leagueId": "4481",
+    "leagueName": "UEFA Europa League",
+    "leagueLogo": "https://r2.thesportsdb.com/images/media/league/logo/b8uhfh1718774548.png"
   }
 ]
